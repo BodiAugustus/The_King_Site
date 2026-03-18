@@ -134,7 +134,7 @@ export default function Home() {
                 </p>
                 <div className=" text-center">
                   <a
-                    href="https://www.tristannettles.com"
+                    href="https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673"
                     target="_blank"
                     className="bg-[#B8860B] hover:bg-amber-600 text-black font-bold text-xl px-12 py-4 rounded-full transition-all duration-300 shadow-2xl inline-block"
                   >
