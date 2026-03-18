@@ -31,6 +31,7 @@ export const metadata = {
     "Simon & Schuster",
     "ancient history novel",
     "vengeance and destiny",
+    "great novels",
   ],
 
   // Open Graph (Facebook, LinkedIn, general social)
