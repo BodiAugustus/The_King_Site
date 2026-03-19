@@ -19,7 +19,7 @@ h2 {
 .hero-bg {
   background-image:
     linear-gradient(rgba(15, 15, 15, 0.12), rgba(15, 15, 15, 0.08)),
-    url("/banner.webp");
+    url("/banner3.webp");
   background-size: cover;
   background-position: center -80px;
   background-attachment: fixed;

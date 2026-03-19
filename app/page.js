@@ -201,13 +201,21 @@ export default function Home() {
       <footer className="bg-black py-12 border-t border-[#B8860B]/30">
         <div className="max-w-5xl mx-auto px-6 text-center">
           <div className="flex justify-center items-center gap-8 mb-8 opacity-70">
-            <span className="text-[#B8860B] font-bold tracking-widest">
+            <a
+              href="https://www.simonandschuster.com/"
+              target="_blank"
+              className="text-[#B8860B] font-bold tracking-widest cursor-pointer"
+            >
               SIMON & SCHUSTER
-            </span>
+            </a>
             <span className="text-white/50 text-2xl">•</span>
-            <span className="text-[#B8860B] font-bold tracking-widest">
+            <a
+              href="https://histriabooks.com/"
+              target="_blank"
+              className="text-[#B8860B] font-bold tracking-widest cursor-pointer"
+            >
               HISTRIA BOOKS
-            </span>
+            </a>
           </div>
 
           <p className="text-white/60 text-sm">
