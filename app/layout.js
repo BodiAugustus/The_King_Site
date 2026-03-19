@@ -43,13 +43,13 @@ export const metadata = {
     siteName: "Tristan Nettles | Novelist",
     images: [
       {
-        url: "/images/cover.jpg", // ← your book cover (absolute or relative; use full https:// if possible)
+        url: "/cover.jpg", // ← your book cover (absolute or relative; use full https:// if possible)
         width: 1200,
         height: 1800,
         alt: "The King: A Bronze Age Tale II book cover – epic Bronze Age battle scene silhouette",
       },
       {
-        url: "/images/banner.webp", // ← hero banner as fallback
+        url: "/banner.webp", // ← hero banner as fallback
         width: 1600,
         height: 900,
         alt: "Bronze Age warriors and war elephants – The King promotional banner",
@@ -71,7 +71,7 @@ export const metadata = {
     title: "The King: A Bronze Age Tale II by Tristan Nettles",
     description:
       "A Bronze Age epic of love, vengeance, and survival. Pre-order to help free Ashley Oosthuizen—every copy counts in this fight for justice.",
-    images: ["/images/cover.jpg"], // Twitter picks the first good OG image anyway
+    images: ["/cover.jpg"], // Twitter picks the first good OG image anyway
     creator: "@tristan_nettles",
     site: "@tristan_nettles",
   },
