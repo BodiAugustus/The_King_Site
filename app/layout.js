@@ -124,6 +124,7 @@ export default function RootLayout({ children }) {
         className={`${cinzel.variable} ${inter.variable} font-sans bg-[#0F0F0F] text-white`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
