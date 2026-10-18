@@ -47,7 +47,7 @@ export default function Home() {
           </a>
 
           <p className="mt-6 text-sm text-white/70">
-            Available September 2026 • Histria Books
+            Available October 2026 • Histria Books
           </p>
         </div>
 
